@@ -1,2 +1,2 @@
 # Rngine
-A cross-platform rendering engine targeting web applications.
+A cross-platform all purposes 3D rendering engine.
